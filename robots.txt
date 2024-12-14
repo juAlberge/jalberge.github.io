@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jualberge.github.io/sitemap.xml
+Sitemap: https://juAlberge.github.io/sitemap.xml
