@@ -1,8 +1,10 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-26-11 00:00:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+**Survival Models:**
+Talk given at the [MECOSA Workshop](https://www.linusbleistein.com/mecosa).
+This workshop was about the advancments on Survival Analysis within the Machine Learning Community!
